@@ -1,0 +1,7 @@
+123 : Master_of_balls
+65 : Apprentice
+42 : well_player
+41 : Random_player
+39 : Random_player_1
+30 : Another_player
+2 : noob
